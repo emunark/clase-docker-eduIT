@@ -10,4 +10,14 @@ Usa docker build para crear la imagen llamada ```simple-apache:new```
 
 4. Ejecutarlo
 
+## II parte
+
+- Crear contenedor desde la nueva imagen
+- Ejecutar la nueva imagen
+El contenedor se debe llamar my_apache
+Debes usar el puerto 5050 de tu localhost para poder acceder a él.
+
+## III Parte 
+- Inspeccionar la imagen
+- Averiguar cuantas capas tiene la nueva imagen
 
